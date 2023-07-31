@@ -1,0 +1,14 @@
+.git
+.gitignore
+!cmd/api/main.go
+cmd/start/main.go
+tmp_data/
+docs/
+*.exe
+LICENSE
+VERSION
+README.md
+.gitlab-ci.yml
+.dockerignore
+Dockerfile
+docker-compose.yml
